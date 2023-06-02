@@ -3,6 +3,8 @@ import './App.css';
 import Search from './Components/Search';
 import Modal from './Components/Modal';
 import Filtering from './Components/Filtering';
+import Header from './Components/Navbar';
+import Banner from './Components/Banner';
 
 function App() {
   let[rockets,setRockets]= useState([])
@@ -29,7 +31,11 @@ function App() {
     })
     return (
       <div className='container'>  
+      <Header/>
+      <h1 style={{fontFamily:"Dancing Script",textAlign:"center",color:"white",margin:"20px",padding:"10px"}}>Image Gallery 📷</h1>
+      <Banner/>
       <h1 style={{fontFamily:"Dancing Script",textAlign:"center",color:"white",margin:"20px",padding:"10px"}}>SpaceX Rockets' Land 🚀</h1>
+      
       <Filtering onH={handleheight} onE={handleengine} onL={handlelegs}/>
       <div className='row'>
          {filrock.map((ele)=>{
