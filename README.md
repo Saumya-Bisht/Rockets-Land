@@ -1,3 +1,22 @@
+This is a project whose name is Rockets' Land as I am fascinated by the infrastructure of the rockets which is why I have chosed this project.This project is made using Bootstrap to make it responsive.Rockets Land is an exciting project built on SpaceX API using React functional components and hooks. This project provides a user-friendly interface that allows users to explore and discover information about various categories of rockets.
+
+Through Rockets Land, users can navigate through different rocket categories, such as Falcon 1, Falcon 9, Falcon Heavy, and more. Each category offers detailed information about the rockets, including their specifications, launch history, and mission details.
+
+The project harnesses the power of React functional components and hooks to create a dynamic and interactive user experience. Functional components provide a modular and reusable structure, while hooks enable the management of state and side effects within the components.
+
+The interface is designed to be intuitive and visually appealing, ensuring a seamless browsing experience for users. The use of modern design techniques and responsive layouts ensures that Rockets Land is accessible and optimized for various devices and screen sizes.
+
+By leveraging the SpaceX API, the project fetches real-time data and updates the information dynamically, allowing users to stay up-to-date with the latest rocket details and mission statuses. This integration with the API ensures that the project remains current and provides accurate and reliable information.
+
+Rockets Land is not only a showcase of technical skills but also a demonstration of a passion for space exploration and a love for learning. It combines the thrill of exploring the wonders of rockets with the power of modern web development technologies.
+
+In summary, Rockets Land is an engaging project built on React functional components and hooks, showcasing different categories of rockets using data from the SpaceX API. It offers an immersive user experience, providing comprehensive information about rockets and their missions. Whether you're a space enthusiast or simply curious about rocket technology, Rockets Land will take you on an exciting journey through the fascinating world of SpaceX rockets.
+
+
+Link to the video of my project:- https://youtu.be/8Ih_qAZD6aw
+Live demo link of my project: https://rockets-land.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
